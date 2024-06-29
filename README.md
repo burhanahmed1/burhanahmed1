@@ -1,5 +1,5 @@
 ![logo](https://github.com/burhanahmed1/burhanahmed1/blob/main/Profile%20Banner.png)
-<h1 align="center">Hi 👋, I'm Burhan Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Burhan</h1>
 <h3 align="center">A Data Science, AI and ML enthusiast👨‍💻</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
