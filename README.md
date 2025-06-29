@@ -1,4 +1,4 @@
-![logo](https://github.com/burhanahmed1/burhanahmed1/blob/main/Profile%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Burhan</h1>
 <h3 align="center">A Data Science, AI and ML enthusiast👨‍💻</h3>
 
