@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data Analyzation**
 
-- 📫 How to reach me **www.burhangujjar123@gmail.com**
+- 📫 How to reach me **business.burhanahmed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
